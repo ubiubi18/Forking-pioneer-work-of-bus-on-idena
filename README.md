@@ -1,5 +1,9 @@
 # Onchain Heads or Tails game for Idena
 
+## Research disclaimer
+
+This is experimental research software. I cannot guarantee its security, correctness, or fitness for any purpose. Use it at your own risk, take responsibility for your decisions, independently verify changes, and stay vigilant.
+
 This is a coin flip smart contract for Idena. It lets anyone bet on one of two equally likely outcomes against the contract itself. It uses a Verifiable Random Function to source randomness in a way which maximizes security for all parties and minimizes the time before the outcome can be decided.
 
 **For educational purposes only. If you're going to deploy this project (I won't) or use it (I won't!), see LICENSE file for warranty information.**
